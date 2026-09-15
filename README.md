@@ -62,8 +62,8 @@ Android application for monitoring aquaponic systems.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]## Hi there 👋
+- LinkedIn: www.linkedin.com/in/ayuannisastp
+- Email: ayusitepu44@gmail.com
 
 <!--
 **ayuannisastp/ayuannisastp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

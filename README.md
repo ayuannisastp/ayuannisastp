@@ -1,6 +1,6 @@
 # Hi, I'm Ayu Annisa Br Sitepu 👋
 
-I'm a D3 Computer Engineering graduate with an interest in
+I'm a D3 Computer Engineering graduate at Politeknik Negeri Medan with an interest in
 Web Development, IT, Networking, and Database.
 
 ## 👩‍💻 About Me
